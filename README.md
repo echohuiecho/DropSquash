@@ -1,14 +1,14 @@
 # DropSquash
 
+![DropSquash](./DropSquash/Assets.xcassets/AppIcon.appiconset/256.png)
+
 A **tiny floating dropzone** on your macOS desktop. Drag files to instantly compress, convert, or process them.
 
-## ✨ Features
+## Latest Release
 
-### 🎯 Core Functionality
-- **Floating Drop Zone**: Small circular zone that floats on your desktop
-- **Single & Multiple Files**: Drop one file or multiple files at once
-- **Real-time Progress**: Visual feedback with progress indicators and status messages
-- **Smart Processing**: Automatically detects file types and applies appropriate operations
+[Download DropSquash - Latest](https://github.com/echohuiecho/DropSquash/releases/latest)
+
+## Features
 
 ### 🖼️ Image Processing
 - **Compression**: Compress JPEG images to 50% quality
